@@ -7,4 +7,4 @@ import { Client as WorkflowClient } from "@upstash/workflow";
         baseUrl: QSTASH_URL,
         token: QSTASH_TOKEN,
     }
- );
+ ) ;
